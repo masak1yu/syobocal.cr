@@ -1,0 +1,9 @@
+name: syobocal
+version: 0.1.0
+
+authors:
+  - masayuki.uchida <masayuki.uchida@mixi.co.jp>
+
+crystal: 0.24.2
+
+license: MIT
